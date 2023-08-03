@@ -38,3 +38,7 @@ Contributions are welcome! If you find any bugs, have feature suggestions, or wa
 ## Credits
 
 This project is a FreeCodeCamp project and was created by Olayiwola Aroyeun.
+
+## Demo 
+
+You can view a demo of this website [here](https://major101x.github.io/react-calculator/)
